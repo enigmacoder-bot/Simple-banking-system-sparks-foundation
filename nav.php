@@ -13,7 +13,7 @@
   <link rel="stylesheet" type="text/css" href="css/createuser.css">
   <link rel="stylesheet" type="text/css" href="css/contact.css">
   <script type="text/javascript" src="bootstrap/js/bootstrap.bundle.min.js"></script>
-  <link rel = "icon" href = "img/logo.png" type = "image/x-icon">
+  <link rel = "icon" href = "img/bank-logo.png" type = "image/x-icon">
 </head>
 
 
@@ -44,7 +44,7 @@
   </nav> -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-  <img src="./img/logo.png" alt="logo" height="50px"/>
+  <img src="./img/bank-logo.png" alt="logo" height="50px"/>
     <a class="navbar-brand" href="index.php">Sparks Bank</a>
     
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
