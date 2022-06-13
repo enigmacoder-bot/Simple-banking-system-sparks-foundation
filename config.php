@@ -1,9 +1,9 @@
 <?php 
 
 $server="localhost";
-$username="id19092432_root";
-$password="7-&aq/j=pJQS|lHk";
-$db="id19092432_sparks_bank";
+$username="root";
+$password="";
+$db="sparks_bank";
 
 $conn=mysqli_connect($server,$username,$password,$db);
 
